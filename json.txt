@@ -1,0 +1,8 @@
+{
+    "message": {
+        "data": "{'param1':'value1'}",
+        "token": [
+            "IQAAAACy05IjAAAuTsiT8vqdvmxigAhlMnzZQbIGNM7WOon2d6eDh_ysVkwFB1cuT7yPV4CDKThKExjEKL7R5TnqAVjMmFoULTQLLWctj2KH_1_MZg"
+        ]
+    }
+}
